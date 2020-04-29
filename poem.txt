@@ -8,3 +8,7 @@ Yellow
 
 pink
 orange
+
+biru
+merah
+ungu
