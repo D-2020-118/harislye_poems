@@ -12,3 +12,6 @@ orange
 biru
 merah
 ungu
+
+Haris add new poem
+Rainbow is so nice
